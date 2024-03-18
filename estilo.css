@@ -1,0 +1,51 @@
+table{
+
+}
+
+td, th{
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#GTAV{
+    background-color: green;
+    color:white
+}
+
+#DAI{
+    background-color: black;
+    color: white;
+}
+#TW{
+    background-color: rgba(255, 255, 255, 0.5);
+    color: white;
+}
+#OV{
+    background-color: rgb(155, 155, 155);
+    color: rgb(253, 162, 43);
+}
+#ZELDA{
+    background-color: rgb(235,227,196);
+    color: rgb(0, 0, 0);
+}
+#KRATOS{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255)
+}
+#SEKIRO{
+    background-color: rgb(179, 179, 179);
+    color: rgb(255, 252, 74)
+}
+#LAST{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255)
+}
+#TWO{
+    background-color: rgb(139,34,19);
+    color: rgb(228,171,54)
+}
+#RING{
+    background-color: rgb(70,105,100);
+    color: rgb(196,162,109)
+}
